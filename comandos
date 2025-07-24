@@ -1,0 +1,13 @@
+trabajar con docker y sail: ./vendor/bin/sail
+instalar tailwind: ./vendor/bin/sail npm install -D tailwindcss postcss autoprefixer
+
+messages
+message_media
+notifications
+hashtags
+post_hashtags
+mentions
+groups
+group_members
+events
+event_attendees
